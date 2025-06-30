@@ -242,7 +242,7 @@ Deseja substituir a verificação de segurança e continuar?</translation>
     <message>
         <location filename="../forms/intranetPodcastPublishingDialog.ui" line="17"/>
         <source>Publish to Intranet</source>
-        <translation type="unfinished">Publicar na Intranet</translation>
+        <translation>Publicar na Intranet</translation>
     </message>
     <message>
         <location filename="../forms/intranetPodcastPublishingDialog.ui" line="28"/>
@@ -900,17 +900,17 @@ Deseja substituir a verificação de segurança e continuar?</translation>
     <message>
         <location filename="../forms/mainWindow.ui" line="1972"/>
         <source>Snap to grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustar à grade</translation>
     </message>
     <message>
         <location filename="../forms/mainWindow.ui" line="1975"/>
         <source>Snap to grid and angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustar à grade e ao ângulo</translation>
     </message>
     <message>
         <location filename="../forms/mainWindow.ui" line="1978"/>
         <source>Ctrl+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+S</translation>
     </message>
     <message>
         <source>Ctrl+I</source>
@@ -1335,7 +1335,7 @@ Deseja substituir a verificação de segurança e continuar?</translation>
     <message>
         <location filename="../forms/mainWindow.ui" line="1436"/>
         <source>Ctrl+P</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+P</translation>
     </message>
     <message>
         <location filename="../forms/mainWindow.ui" line="1703"/>
@@ -1431,7 +1431,7 @@ Deseja substituir a verificação de segurança e continuar?</translation>
     <message>
         <location filename="../../plugins/cffadaptor/src/UBCFFAdaptor.cpp" line="1181"/>
         <source>Element ID = </source>
-        <translation>ID do Elemento</translation>
+        <translation>ID do Elemento = </translation>
     </message>
     <message>
         <location filename="../../plugins/cffadaptor/src/UBCFFAdaptor.cpp" line="1183"/>
@@ -1833,7 +1833,7 @@ Deseja substituir a verificação de segurança e continuar?</translation>
         <location filename="../../src/document/UBDocumentController.cpp" line="3194"/>
         <location filename="../../src/document/UBDocumentController.cpp" line="3332"/>
         <source>Failed to import file ... </source>
-        <translation>Falha ao importar arquivo ...</translation>
+        <translation>Falha ao importar arquivo ... </translation>
     </message>
     <message>
         <location filename="../../src/document/UBDocumentController.cpp" line="3221"/>
@@ -1901,13 +1901,13 @@ Deseja substituir a verificação de segurança e continuar?</translation>
         <location filename="../../src/document/UBDocumentController.cpp" line="2501"/>
         <location filename="../../src/document/UBDocumentController.cpp" line="3466"/>
         <source>Opening document in Board. Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrindo documento no Quadro. Aguarde...</translation>
     </message>
     <message>
         <location filename="../../src/document/UBDocumentController.cpp" line="2507"/>
         <location filename="../../src/document/UBDocumentController.cpp" line="3472"/>
         <source>Document opened successfully</source>
-        <translation type="unfinished"></translation>
+        <translation>Documento aberto com sucesso</translation>
     </message>
     <message>
         <location filename="../../src/document/UBDocumentController.cpp" line="2613"/>
@@ -1997,17 +1997,17 @@ Deseja substituir a verificação de segurança e continuar?</translation>
     <message>
         <location filename="../../src/document/UBDocumentController.cpp" line="3404"/>
         <source>Refreshing Document Thumbnails View (%1 pages)</source>
-        <translation type="unfinished"></translation>
+        <translation>Miniaturas sendo atualizadas (%1 páginas)</translation>
     </message>
     <message>
         <location filename="../../src/document/UBDocumentController.cpp" line="3408"/>
         <source>Refreshing Document Thumbnails View</source>
-        <translation type="unfinished"></translation>
+        <translation>Recarregando visualização</translation>
     </message>
     <message>
         <location filename="../../src/document/UBDocumentController.cpp" line="3412"/>
         <source>Document Thumbnails View up-to-date. Repainting...</source>
-        <translation type="unfinished"></translation>
+        <translation>Recarregando visualização (%1 páginas). Completando...</translation>
     </message>
     <message>
         <location filename="../../src/document/UBDocumentController.cpp" line="3972"/>
@@ -2064,7 +2064,7 @@ Deseja substituir a verificação de segurança e continuar?</translation>
     <message>
         <location filename="../../src/core/UBDocumentManager.cpp" line="216"/>
         <source>Creating %1 pages. Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Criando %1 páginas. Aguarde...</translation>
     </message>
     <message>
         <location filename="../../src/core/UBDocumentManager.cpp" line="287"/>
@@ -2238,7 +2238,8 @@ Um outro nome permitirá que você mantenha o documento antigo.</translation>
         <location filename="../../src/web/UBEmbedController.cpp" line="165"/>
         <source>Application name can`t contain any of the following characters:<byte value="xd"/>
 </source>
-        <translation type="unfinished"></translation>
+        <translation>O nome do aplicativo não pode conter nenhum dos seguintes caracteres:
+</translation>
     </message>
     <message>
         <location filename="../../src/web/UBEmbedController.cpp" line="236"/>
@@ -2555,7 +2556,7 @@ Um outro nome permitirá que você mantenha o documento antigo.</translation>
         <location filename="../../src/board/UBFeaturesController.cpp" line="741"/>
         <location filename="../../src/board/UBFeaturesController.cpp" line="747"/>
         <source>Web</source>
-        <translation type="unfinished">Web</translation>
+        <translation>Web</translation>
     </message>
     <message>
         <location filename="../../src/board/UBFeaturesController.cpp" line="915"/>
@@ -2587,7 +2588,7 @@ Um outro nome permitirá que você mantenha o documento antigo.</translation>
     <message>
         <location filename="../../src/gui/UBFeaturesWidget.cpp" line="762"/>
         <source>Loading </source>
-        <translation>A carregar</translation>
+        <translation>A carregar </translation>
     </message>
 </context>
 <context>
@@ -2676,7 +2677,7 @@ Um outro nome permitirá que você mantenha o documento antigo.</translation>
         <location filename="../../src/domain/UBGraphicsMediaItem.cpp" line="500"/>
         <location filename="../../src/domain/UBGraphicsMediaItem.cpp" line="503"/>
         <source>Media error: </source>
-        <translation>Erro na mídia:</translation>
+        <translation>Erro na mídia: </translation>
     </message>
 </context>
 <context>
@@ -2684,7 +2685,7 @@ Um outro nome permitirá que você mantenha o documento antigo.</translation>
     <message>
         <location filename="../../src/tools/UBGraphicsProtractor.cpp" line="535"/>
         <source>use arrow keys for precise moves</source>
-        <translation type="unfinished"></translation>
+        <translation>use as setas do teclado para movimentos precisos</translation>
     </message>
 </context>
 <context>
@@ -2693,7 +2694,7 @@ Um outro nome permitirá que você mantenha o documento antigo.</translation>
         <location filename="../../src/tools/UBGraphicsRuler.cpp" line="167"/>
         <location filename="../../src/tools/UBGraphicsRuler.cpp" line="171"/>
         <source>use arrow keys for precise moves</source>
-        <translation type="unfinished"></translation>
+        <translation>use as setas do teclado para movimentos precisos</translation>
     </message>
 </context>
 <context>
@@ -2723,7 +2724,7 @@ Um outro nome permitirá que você mantenha o documento antigo.</translation>
         <location filename="../../src/tools/UBGraphicsTriangle.cpp" line="449"/>
         <location filename="../../src/tools/UBGraphicsTriangle.cpp" line="453"/>
         <source>use arrow keys for precise moves</source>
-        <translation type="unfinished"></translation>
+        <translation>use as setas do teclado para movimentos precisos</translation>
     </message>
 </context>
 <context>
@@ -2752,7 +2753,7 @@ Um outro nome permitirá que você mantenha o documento antigo.</translation>
     <message>
         <location filename="../../src/domain/UBGraphicsWidgetItemDelegate.cpp" line="101"/>
         <source>Transform as Tool </source>
-        <translation>Transformar em Ferramenta</translation>
+        <translation>Transformar em Ferramenta </translation>
     </message>
 </context>
 <context>
@@ -2844,7 +2845,7 @@ Um outro nome permitirá que você mantenha o documento antigo.</translation>
     <message>
         <location filename="../../src/adaptors/UBImportPDF.cpp" line="81"/>
         <source>Importing %1 PDF pages. Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Importando %1 páginas do PDF. Aguarde...</translation>
     </message>
     <message>
         <source>Importing page %1 of %2</source>
@@ -3223,7 +3224,7 @@ Quer ignorar estes erros deste servidor?</translation>
     <message>
         <location filename="../../src/core/UBShortcutManager.cpp" line="260"/>
         <source>Reset zoom factor</source>
-        <translation>Redefinir fator de zoom </translation>
+        <translation>Redefinir fator de zoom</translation>
     </message>
     <message>
         <location filename="../../src/core/UBShortcutManager.cpp" line="266"/>
@@ -3363,7 +3364,7 @@ Quer ignorar estes erros deste servidor?</translation>
     <message>
         <location filename="../../src/gui/UBStartupHintsPalette.cpp" line="67"/>
         <source>Visible next time</source>
-        <translation>Visível na próxima vez </translation>
+        <translation>Visível na próxima vez</translation>
     </message>
 </context>
 <context>
@@ -3388,7 +3389,7 @@ Quer ignorar estes erros deste servidor?</translation>
     <message>
         <location filename="../../src/adaptors/UBThumbnailAdaptor.cpp" line="107"/>
         <source>Loading thumbnails (%1 pages)</source>
-        <translation type="unfinished"></translation>
+        <translation>Carregando miniaturas (%1 pág.)</translation>
     </message>
     <message>
         <source>Loading thumbnail (%1/%2)</source>
@@ -3462,7 +3463,7 @@ Quer ignorar estes erros deste servidor?</translation>
     <message>
         <location filename="../../src/gui/UBUpdateDlg.cpp" line="76"/>
         <source>Backup path: </source>
-        <translation>Localização da Cópia de Segurança:</translation>
+        <translation>Localização da Cópia de Segurança: </translation>
     </message>
     <message>
         <location filename="../../src/gui/UBUpdateDlg.cpp" line="82"/>
@@ -3635,7 +3636,7 @@ Por favor, reinicie o aplicativo para ir aos documentos atualizados.</translatio
     <message>
         <location filename="../../src/domain/UBGraphicsScene.cpp" line="205"/>
         <source>Bottom layer limit reached</source>
-        <translation type="unfinished"></translation>
+        <translation>Atingido limite da camada inferior</translation>
     </message>
 </context>
 <context>
@@ -3978,7 +3979,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../forms/brushProperties.ui" line="504"/>
         <source>Show preview circle from</source>
-        <translation>Ver cruz a partir de</translation>
+        <translation>Ver a ponta acima de</translation>
     </message>
     <message>
         <location filename="../forms/brushProperties.ui" line="514"/>
@@ -4090,17 +4091,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../forms/preferences.ui" line="389"/>
         <source>Positioned at the Top (recommended for tablets)</source>
-        <translation>Posicionado no topo (recomendado para tablets ou mesas digitalizadoras)</translation>
+        <translation>Visível no topo (melhor para tablets ou mesas digitalizadoras)</translation>
     </message>
     <message>
         <location filename="../forms/preferences.ui" line="382"/>
         <source>Positioned at the Bottom (recommended for white boards)</source>
-        <translation>Posicionado em baixo (recomendado para quadros brancos)</translation>
+        <translation>Visível em baixo (melhor para lousa digital)</translation>
     </message>
     <message>
         <location filename="../forms/preferences.ui" line="373"/>
         <source>Display Text Under Button</source>
-        <translation>Mostrar legenda abaixo dos botões</translation>
+        <translation>Mostrar legenda nos botões</translation>
     </message>
     <message>
         <location filename="../forms/preferences.ui" line="429"/>
@@ -4342,7 +4343,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../forms/preferences.ui" line="624"/>
         <source>List of screens used for Control, Display and Previous pages</source>
-        <translation>Lista de telas usadas para Controle, Exibição e Páginas anteriores</translation>
+        <translation>Lista de telas usadas para exibir as páginas Principal, Estendida e Anterior</translation>
     </message>
 </context>
 <context>
