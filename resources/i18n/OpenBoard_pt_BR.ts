@@ -427,7 +427,7 @@ Deseja substituir a verificação de segurança e continuar?</translation>
     <message>
         <location filename="../forms/mainWindow.ui" line="465"/>
         <source>Large Eraser</source>
-        <translation>Borracha Grande</translation>
+        <translation>Borracha Grossa</translation>
     </message>
     <message>
         <location filename="../forms/mainWindow.ui" line="564"/>
@@ -467,7 +467,7 @@ Deseja substituir a verificação de segurança e continuar?</translation>
     <message>
         <location filename="../forms/mainWindow.ui" line="624"/>
         <source>Load Home Page</source>
-        <translation>Carregar a Página Inicial</translation>
+        <translation>Abrir a Página Inicial</translation>
     </message>
     <message>
         <location filename="../forms/mainWindow.ui" line="633"/>
@@ -550,7 +550,7 @@ Deseja substituir a verificação de segurança e continuar?</translation>
     <message>
         <location filename="../forms/mainWindow.ui" line="773"/>
         <source>Bigger</source>
-        <translation>Ampliar</translation>
+        <translation>Bem grande</translation>
     </message>
     <message>
         <location filename="../forms/mainWindow.ui" line="776"/>
@@ -566,13 +566,13 @@ Deseja substituir a verificação de segurança e continuar?</translation>
     <message>
         <location filename="../forms/mainWindow.ui" line="793"/>
         <source>Smaller</source>
-        <translation>Reduzir</translation>
+        <translation>Bem pequeno</translation>
     </message>
     <message>
         <location filename="../forms/mainWindow.ui" line="796"/>
         <location filename="../forms/mainWindow.ui" line="1535"/>
         <source>Zoom Out</source>
-        <translation>Afastar</translation>
+        <translation>Reduzir</translation>
     </message>
     <message>
         <location filename="../forms/mainWindow.ui" line="804"/>
@@ -1227,7 +1227,7 @@ Deseja substituir a verificação de segurança e continuar?</translation>
     <message>
         <location filename="../forms/mainWindow.ui" line="432"/>
         <source>Small Eraser</source>
-        <translation>Borracha estreita</translation>
+        <translation>Borracha Fina</translation>
     </message>
     <message>
         <location filename="../forms/mainWindow.ui" line="477"/>
@@ -1268,7 +1268,7 @@ Deseja substituir a verificação de segurança e continuar?</translation>
     <message>
         <location filename="../forms/mainWindow.ui" line="323"/>
         <source>Documents Mode</source>
-        <translation>Modo dos Documentos</translation>
+        <translation>Modo Documentos</translation>
     </message>
     <message>
         <location filename="../forms/mainWindow.ui" line="343"/>
@@ -1436,7 +1436,7 @@ Deseja substituir a verificação de segurança e continuar?</translation>
     <message>
         <location filename="../../plugins/cffadaptor/src/UBCFFAdaptor.cpp" line="1183"/>
         <source>Content is not supported in destination format.</source>
-        <translation>O conteúdo não é suportado no formato de destino.</translation>
+        <translation>O conteúdo não é suportado no formato desejado.</translation>
     </message>
     <message>
         <location filename="../../src/gui/UBDocumentThumbnailsView.cpp" line="880"/>
@@ -1475,32 +1475,32 @@ Deseja substituir a verificação de segurança e continuar?</translation>
     <message>
         <location filename="../../src/web/simplebrowser/tabwidget.cpp" line="123"/>
         <source>New &amp;Tab</source>
-        <translation>Novo &amp;Separador</translation>
+        <translation>Nova &amp;Guia</translation>
     </message>
     <message>
         <location filename="../../src/web/simplebrowser/tabwidget.cpp" line="126"/>
         <source>Clone Tab</source>
-        <translation>Duplicar Separador</translation>
+        <translation>Duplicar Guia</translation>
     </message>
     <message>
         <location filename="../../src/web/simplebrowser/tabwidget.cpp" line="131"/>
         <source>&amp;Close Tab</source>
-        <translation>&amp;Fechar Separador</translation>
+        <translation>&amp;Fechar Guia</translation>
     </message>
     <message>
         <location filename="../../src/web/simplebrowser/tabwidget.cpp" line="136"/>
         <source>Close &amp;Other Tabs</source>
-        <translation>Fechar os &amp;Outros Separadores</translation>
+        <translation>Fechar as &amp;Outras Guias</translation>
     </message>
     <message>
         <location filename="../../src/web/simplebrowser/tabwidget.cpp" line="141"/>
         <source>Reload Tab</source>
-        <translation>Atualizar Separador</translation>
+        <translation>Atualizar Guia</translation>
     </message>
     <message>
         <location filename="../../src/web/simplebrowser/tabwidget.cpp" line="149"/>
         <source>Reload All Tabs</source>
-        <translation>Atualizar todos os Separadores</translation>
+        <translation>Atualizar todas as Guias</translation>
     </message>
     <message>
         <source>Recently Closed Tabs</source>
@@ -3979,7 +3979,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../forms/brushProperties.ui" line="504"/>
         <source>Show preview circle from</source>
-        <translation>Ver a ponta acima de</translation>
+        <translation>Ver cruz, se menor que</translation>
     </message>
     <message>
         <location filename="../forms/brushProperties.ui" line="514"/>
